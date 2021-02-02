@@ -1,4 +1,4 @@
-# Documentació
+# Documentació (pdf)
 
 ## 1. [Gestió usuaris](documents/Apunts_MP02_UF03_Llenguatges_DCL_01_Gestio_Usuaris.pdf)
 
