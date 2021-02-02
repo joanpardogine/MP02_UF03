@@ -1,3 +1,10 @@
+# Documentació
+
+## 1. [Gestió usuaris](documents/Apunts_MP02_UF03_Llenguatges_DCL_01_Gestio_Usuaris.pdf)
+
+## 2. [Procediments, funcions i Cursors ](documents/Apunts_MP02_UF03_Llenguatges_DCL_02_Proc_Func_Cursors.pdf)
+
+
 # Activitat 1: Usuaris i privilegis en MySQL.
 
 <details>
