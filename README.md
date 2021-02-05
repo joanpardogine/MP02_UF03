@@ -5,6 +5,19 @@
 ## 2. [Procediments, funcions i Cursors ](documents/Apunts_MP02_UF03_Llenguatges_DCL_02_Proc_Func_Cursors.pdf)
 
 
+[CreaDBLlibreria.sql](https://drive.google.com/open?id=1O2YgMggEx0dswZZncbXx-ozH2nLDzcUk)
+
+## Comandes per actualitzar a mySQL 8.0
+
+sudo apt-get update
+
+sudo apt-get upgrade
+
+wget https://repo.mysql.com//mysql-apt-config_0.8.14-1_all.deb
+
+sudo dpkg -i mysql-apt-config_0.8.14-1_all.deb
+
+
 # Activitat 1: Usuaris i privilegis en MySQL.
 
 <details>
