@@ -91,10 +91,10 @@ vostre servidor funciona o no.
 # Activitat 3: Activitats de procediments emmagatzemats
 
 <details>
-  <summary> fes click per expandir.</summary>
+  <summary> fes click per veure l'enllaç a: Activitat 3: Activitats de procediments emmagatzemats. (PDF)</summary>
 
 ## 1. [Activitat_03_Procediments_Funcions_MySQL](documents/Activitat_03_Procediments_Funcions_MySQL.pdf)
-Activitat_03_Procediments_Funcions_MySQL
+
 </details>
 
 
