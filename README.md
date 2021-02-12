@@ -98,13 +98,6 @@ vostre servidor funciona o no.
 </details>
 
 
-# Activitat_03_Procediments_Funcions_MySQL.pdf Activitats de SP amb cursors
-
-<details>
-  <summary> fes click per expandir.</summary>
-  
-</details>
-
 # Enunciats per practicar amb els `INSERT`'s
 
 <details>
