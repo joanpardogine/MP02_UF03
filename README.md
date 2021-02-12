@@ -95,10 +95,7 @@ vostre servidor funciona o no.
 
 ## 1. [Activitat_03_Procediments_Funcions_MySQL](documents/Activitat_03_Procediments_Funcions_MySQL.pdf)
 Activitat_03_Procediments_Funcions_MySQL
-
-<details>
-  <summary> fes click per expandir.</summary>
-tails>
+</details>
 
 
 # Activitat_03_Procediments_Funcions_MySQL.pdf Activitats de SP amb cursors
