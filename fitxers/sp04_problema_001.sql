@@ -56,7 +56,7 @@
  -- INSERT INTO tbl_name (a,b,c) VALUES(1,2,3),(4,5,6),(7,8,9);
     INSERT INTO TREBALLADORS (dni,nom,cognom,sou,nombre_fills,seccio)
     VALUES('12345678', 'Joan', 'Perez', 300, 2, 'Comptabilitat'),
-    VALUES('25896314', 'Pere', 'Garcia', 300, 0, 'Vendes');
+          ('25896314', 'Pere', 'Garcia', 300, 0, 'Vendes');
     
 -- mysql>     INSERT INTO TREBALLADORS (dni,nom,cognom,sou,nombre_fills,seccio)
 --     ->     VALUES('12345678', 'Joan', 'Perez', 300, 2, 'Comptabilitat');
