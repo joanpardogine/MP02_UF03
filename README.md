@@ -91,18 +91,12 @@ vostre servidor funciona o no.
 # Activitat 3: Activitats de procediments emmagatzemats
 
 <details>
-  <summary> fes click per expandir.</summary>
+  <summary> fes click per veure l'enllaç a: Activitat 3: Activitats de procediments emmagatzemats. (PDF)</summary>
 
-&nbsp;&nbsp;**1.** Dissenya un procediment que rebi un codi de pel·lícula i mostri per pantalla el nom de la pel·lícula i els actors/actrius que hi actuen, juntament amb el paper que interpreten.
+## 1. [Activitat_03_Procediments_Funcions_MySQL](documents/Activitat_03_Procediments_Funcions_MySQL.pdf)
 
 </details>
 
-# Activitat 4: Activitats de SP amb cursors
-
-<details>
-  <summary> fes click per expandir.</summary>
-  
-</details>
 
 # Enunciats per practicar amb els `INSERT`'s
 
